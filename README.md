@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-<!--
-
 I am a dedicated Master’s student in Statistics (GPA 4.0/4.0) and a Graduate Assistant at Miami University, specializing in leveraging advanced statistical methods to solve real-world problems.
 
 My specific research interest lies in **Statistical Genomics and Bioinformatics**, with a core focus on **GWAS Imputation** using summary data. I have developed robust **R workflows** within **Linux HPC environments** to process, clean, and perform quality control on million-row genomic datasets, demonstrating strong technical proficiency in big data handling.
@@ -14,4 +12,3 @@ As a Volunteer Statistical Consultant, I excel at communicating complex statisti
 
 My ultimate goal is to apply my expertise in statistical rigor and scientific computing to positively contribute to human health and wellness, particularly at the intersection of scientific research and health-related businesses.
 
--->
